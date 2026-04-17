@@ -26,7 +26,7 @@
   "homepage": "https://github.com/ether/ep_prefer_color_scheme",
   "devDependencies": {
     "eslint": "^8.57.1",
-    "eslint-config-etherpad": "^4.0.4",
+    "eslint-config-etherpad": "^4.0.5",
     "typescript": "^6.0.2"
   },
   "engines": {
