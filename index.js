@@ -1,4 +1,6 @@
+'use strict';
+
 // Get settings
 
-exports.clientVars = function (hook, context, callback) {
+exports.clientVars = (hook, context, callback) => {
 };

@@ -1,4 +1,6 @@
-exports.aceSetAuthorStyle = function (hook_name, args, cb) {
+'use strict';
+
+exports.aceSetAuthorStyle = (hookName, args, cb) => {
   let colorm;
 
   const nightColors = {
